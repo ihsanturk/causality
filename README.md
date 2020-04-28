@@ -1,6 +1,6 @@
 # Causality
 
-Causality is a dependency graph helper.
+Causality is a causality graph helper.
 
 ## Example
 
